@@ -6,7 +6,7 @@ The BP algorithm reference paper can be found at:  http://journals.plos.org/plos
 For a beta version of the code please contact: cdebacco@santafe.edu
 Eventually it will be uploaded to github...
 
-This dataset can be found at:
+The original source of this dataset is:
 http://becool.info.ucl.ac.be/lsgraph
 
 under "lsgraph_bench_edp.zip". Thanks to Pham Quang Dung.
