@@ -6,6 +6,11 @@ The BP algorithm reference paper can be found at:  http://journals.plos.org/plos
 For a beta version of the code please contact: cdebacco@santafe.edu
 Eventually it will be uploaded to github...
 
+This dataset can be found at:
+http://becool.info.ucl.ac.be/lsgraph
+
+under "lsgraph_bench_edp.zip". Thanks to Pham Quang Dung.
+
 The titles denote the graph type, and "ins1" or "ins2" denote the instance number: two different instances have the same graph but different set of (S,R) pairs.
 
 Row 1: $1=N=# of vertices; $2=E=# of edges
