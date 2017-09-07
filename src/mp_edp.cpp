@@ -1,5 +1,5 @@
 /*
-   Copyright 2013 Caterina De Bacco
+   Copyright 2015 Caterina De Bacco
 
    This file is part of Edge-Noverlap  (Cavity equations for not-overlapping communications in problems on graphs with edge constraints).
 
@@ -7,19 +7,23 @@
 - DIRECT EDGE (S,R)
 - CALCULATE MAX M ACCOMODATED
   
- Noverlap is free software; you can redistribute it and/or modify
-   it under the terms of the GNU General Public License as published by
-   the Free Software Foundation; either version 2 of the License, or
-   (at your option) any later version.
+  If you use this software, please cite:
 
-   Noverlap is distributed in the hope that it will be useful,
-   but WITHOUT ANY WARRANTY; without even the implied warranty of
-   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-   GNU General Public License for more details.
+  Altarelli, F., Braunstein, A., Dall’Asta, L., De Bacco, C., & Franz, S. (2015). The edge-disjoint path problem on random graphs by message-passing. PloS one, 10(12), e0145222.
 
-   You should have received a copy of the GNU General Public License
-   along with Noverlap; if not, write to the Free Software
-   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+  MP_EDP is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  (at your option) any later version.
+
+  MP_EDP is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with Noverlap; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
 
